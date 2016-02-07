@@ -13,6 +13,10 @@ namespace Quiz.Controllers
         {
             return View();
         }
+        public ActionResult ListGames()
+        {
+            return View();
+        }
 
         // GET: CreateGame/Details/5
         public ActionResult Details(int id)
@@ -21,11 +25,15 @@ namespace Quiz.Controllers
         }
 
         // GET: CreateGame/Create
-        public ActionResult Create()
+        public ActionResult AddGame()
         {
             return View();
         }
 
+        public ActionResult AddQuestion()
+        {
+            return View();
+        }
         // POST: CreateGame/Create
         [HttpPost]
         public ActionResult Create(FormCollection collection)

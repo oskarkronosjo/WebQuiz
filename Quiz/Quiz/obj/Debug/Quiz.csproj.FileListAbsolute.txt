@@ -133,6 +133,6 @@ D:\Quiz\Web\Quiz\Quiz\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Quiz\Web\Quiz\Quiz\bin\Microsoft.Owin.Security.Google.xml
 D:\Quiz\Web\Quiz\Quiz\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Quiz\Web\Quiz\Quiz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Quiz\Web\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
 D:\Quiz\Web\Quiz\Quiz\obj\Debug\Quiz.dll
 D:\Quiz\Web\Quiz\Quiz\obj\Debug\Quiz.pdb
+D:\Quiz\Web\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache

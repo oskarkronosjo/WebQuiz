@@ -29,5 +29,13 @@ namespace Quiz.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<Quiz.Models.AddNewQuestion> AddNewQuestions { get; set; }
+
+        public System.Data.Entity.DbSet<Quiz.Models.AddNewGame> AddNewGames { get; set; }
+
+        public System.Data.Entity.DbSet<Quiz.Models.GameModel> GameModels { get; set; }
+
+        public System.Data.Entity.DbSet<Quiz.Models.QuestionModel> QuestionModels { get; set; }
     }
 }
